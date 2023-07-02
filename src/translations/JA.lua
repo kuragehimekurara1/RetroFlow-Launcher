@@ -13,7 +13,7 @@ return {
 -- General settings
 ["Language_colon"] = "言語：",
 ["Homebrews_Category_colon"] = "Homebrewsカテゴリー：",
-["Recently_Played_colon"] = "最近プレイしました：",
+["Recently_Played_colon"] = "最近遊んだ：",
 ["Startup_scan_colon"] = "スタートアップスキャン：",
 ["On"] = "オン",
 ["Off"] = "オフ",
@@ -33,8 +33,8 @@ return {
 ["Dark_Purple"] = "濃紫色",
 ["Orange"] = "オレンジ",
 ["Blue"] = "青色",
-["Views_2D_colon"] = "2D 表示：",
-["Change_Views_colon"] = "表示ーの変更：",
+["Views_2D_colon"] = "2Dで表示：",
+["Change_Views_colon"] = "ビューの変更：",
 
 -- Audio
 ["Audio"] = "オーディオ",
@@ -46,7 +46,7 @@ return {
 -- Startup Categories
 ["Startup_Category_colon"] = "起動時のカテゴリー：",
 ["Favorites"] = "お気に入り",
-["Recently_Played"] = "最近プレイしました",
+["Recently_Played"] = "最近遊んだ",
 ["PS_Vita"] = "PS Vita",
 ["Homebrews"] = "Homebrews",
 ["PSP"] = "PSP",
